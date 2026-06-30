@@ -1,15 +1,12 @@
-# Superstore Sales Analysis
+## Task 2
 
-## Project Overview
-This project is part of my Data Analytics learning journey.
+### Exploratory Data Analysis (EDA)
 
-## Task 1
-- Created the project structure.
-- Imported the Superstore dataset using Pandas.
-- Displayed the first 5 rows.
-- Viewed dataset information using df.info().
-
-## Tools Used
-- Python
-- Pandas
-- VS Code
+- Loaded the dataset using Pandas
+- Displayed the first five rows
+- Checked the dataset shape
+- Listed all column names
+- Examined dataset information
+- Checked missing values
+- Checked duplicate records
+- Generated summary statistics
